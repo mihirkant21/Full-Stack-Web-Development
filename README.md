@@ -1,19 +1,9 @@
-# 💻 Full Stack Web Development – MERN Stack (Apna College)
+# 💻 Full Stack Web Development – MERN Stack
 
 This repository contains my notes, code, and project work while learning Full Stack Web Development using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js).  
-The course is provided by **Apna College**, covering both frontend and backend technologies in depth.
+Covering both frontend and backend technologies in depth.
 
 ---
-
-## 📚 Course Structure
-
-### 🕸️ Introduction to Web Development
-- What is the Web?
-- Client-Server Architecture
-- Setting up Developer Environment
-
----
-
 ## 🌐 Frontend Development
 
 ### 📄 HTML
