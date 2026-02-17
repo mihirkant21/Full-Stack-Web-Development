@@ -1,0 +1,39 @@
+.card{
+    width: 200px;
+    border: 2px solid black;
+    display: inline-block;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,1);
+    transition: box-shadow 0.3s ease-in-out;
+}
+.desc{
+    padding: 0 2px 0 2px;
+}
+img{
+    width: 100%;
+    border-radius: 5px 5px 0 0 ;
+    background-color: rgb(149, 255, 0);
+}
+.card:hover{
+    box-shadow: 4px 4px 10px rgb(38, 0, 255);
+}
+.card-2{
+    width: 200px;
+    border: 2px solid black;
+    display: inline-block;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,1);
+    transition: box-shadow 0.3s ease-in-out;
+}
+.desc{
+    padding: 0 2px 0 2px;
+}
+img{
+    width: 100%;
+    border-radius: 5px 5px 0 0 ;
+}
+.card-2:hover{
+    box-shadow: 4px 4px 10px rgb(255, 0, 132);
+}
